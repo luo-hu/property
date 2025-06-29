@@ -1,0 +1,7 @@
+输入行太长。
+命令语法不正确。
+Project ERROR: Cannot run compiler 'cl'. Output:
+===================
+C:\Users\73675\AppData\Local\Temp\fmr025bg.rtc>@SET "PATH=F:\Anaconda_5.1\condabin;
+===================
+Maybe you forgot to setup the environment?

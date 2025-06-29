@@ -1,0 +1,12 @@
+qtpropertybrowser.o
+qtpropertymanager.o
+qteditorfactory.o
+qtvariantproperty.o
+qttreepropertybrowser.o
+qtbuttonpropertybrowser.o
+qtgroupboxpropertybrowser.o
+qtpropertybrowserutils.o
+objectcontroller.o
+main.o
+qrc_qtpropertybrowser.o
+moc_qtpropertybrowserutils_p.o

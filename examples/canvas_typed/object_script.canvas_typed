@@ -1,0 +1,15 @@
+qtpropertybrowser.o
+qtpropertymanager.o
+qteditorfactory.o
+qtvariantproperty.o
+qttreepropertybrowser.o
+qtbuttonpropertybrowser.o
+qtgroupboxpropertybrowser.o
+qtpropertybrowserutils.o
+qtcanvas.o
+mainwindow.o
+main.o
+qrc_qtpropertybrowser.o
+moc_qtpropertybrowserutils_p.o
+moc_qtcanvas.o
+moc_mainwindow.o
